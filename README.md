@@ -1,2 +1,0 @@
-# Rock_and_Wave_Physics_Informed_Neural_Networks
-Porosity estimation from RW-PINNs
